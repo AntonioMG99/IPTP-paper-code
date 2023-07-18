@@ -18,14 +18,14 @@ Code is divided in three main files:
 
 * The `Least_Squares.py` file contains all code involving the Least Squares method and plots for the figures in the paper. 
 
-* The `RBF_PINNs.py` file contains all code involving the RBF-PINNs method applied to the PDE models discussed in the paper (Schnakenberg, FitzHugh-Nagumo and Brusselator) and plots for the figures. 
+* The `RBFPINNs.py` file contains all code involving the RBF-PINNs method applied to the PDE models discussed in the paper (Schnakenberg, FitzHugh-Nagumo and Brusselator) and plots for the figures. 
 
-* The `RBF_PINNs_ChemPat.py` file contains all code involving the RBF-PINNs method applied to the chemical patterns and plots for the figures.
+* The `RBFPINNs_ChemPat.py` file contains all code involving the RBF-PINNs method applied to the chemical patterns and plots for the figures.
 
 ### `Least_Squares.py`
 
 
-### `RBF_PINNs.py`
+### `RBFPINNs.py`
 
 
-### `RBF_PINNs_ChemPat.py`
+### `RBFPINNs_ChemPat.py`
