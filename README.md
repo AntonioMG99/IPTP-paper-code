@@ -21,11 +21,3 @@ Code is divided in three main files:
 * The `RBFPINNs.py` file contains all code involving the RBF-PINNs method applied to the PDE models discussed in the paper (Schnakenberg, FitzHugh-Nagumo and Brusselator) and plots for the figures. 
 
 * The `RBFPINNs_ChemPat.py` file contains all code involving the RBF-PINNs method applied to the chemical patterns and plots for the figures.
-
-### `Least_Squares.py`
-
-
-### `RBFPINNs.py`
-
-
-### `RBFPINNs_ChemPat.py`
