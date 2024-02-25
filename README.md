@@ -18,7 +18,7 @@
 
 Code is divided into three main files, found in the folder 'models':
 
-* The `Least_Squares.py` file contains all code involving the Least Squares method and plots for the figures in the paper. 
+* The `Least_Squares.ipynb` file contains all code involving the Least Squares method and plots for the figures in the paper. This is uploaded as a Jupyter Notebook since the code is relatively fast and many results are shown. 
 
 * The `RBFPINNs.py` file contains all code involving the RBF-PINNs method applied to the PDE models discussed in the paper (Schnakenberg, FitzHugh-Nagumo and Brusselator) and plots for the figures. 
 
