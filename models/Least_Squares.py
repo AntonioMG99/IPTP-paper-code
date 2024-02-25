@@ -6,8 +6,6 @@ from shapely.geometry import Point
 import matplotlib.patches as ptc
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
-import gc
-import pprint
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import cm
