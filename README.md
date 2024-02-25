@@ -11,6 +11,8 @@
   Numpy 1.22.1\
   Maptlotlib \
   SciPy 1.9.3 \
+  opencv-python 4.9.0.80\
+  shapely 2.0.3
 
 ## Structure of code
 
