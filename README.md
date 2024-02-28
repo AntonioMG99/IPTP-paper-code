@@ -1,6 +1,10 @@
-# IPTP-paper-code: Inverse Problems in Turing Patterns
-
-## Code for the paper: "Unraveling biochemical spatial patterns: machine learning approaches to the inverse problem of Turing patterns"
+<table>
+  <tr>
+    <td width="250" height="250"><img src="https://github.com/AntonioMG99/IPTP-paper-code/assets/52926867/bb92795a-7016-4814-98dd-833bc9a38e5d" alt="logo" /></td>
+    <!-- Use span with styles to mimic h1 -->
+    <td><h1>IPTP-paper-code: Inverse Problems in Turing Patterns</h1> Code for the paper: "Unraveling biochemical spatial patterns: machine learning approaches to the inverse problem of Turing patterns" </td>
+  </tr>
+</table>
 ## Setup
 
 * Tested on Mac OS Ventura 13.3.1(a) and Rocky Linux
