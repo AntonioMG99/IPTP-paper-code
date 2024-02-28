@@ -5,6 +5,7 @@
     <td><h1>IPTP-paper-code: Inverse Problems in Turing Patterns</h1> Code for the paper: "Unraveling biochemical spatial patterns: machine learning approaches to the inverse problem of Turing patterns" </td>
   </tr>
 </table>
+
 ## Setup
 
 * Tested on Mac OS Ventura 13.3.1(a) and Rocky Linux
@@ -24,9 +25,7 @@ Code is divided into three main files, found in the folder 'models':
 
 * The `Least_Squares.ipynb` file contains all code involving the Least Squares method and plots for the figures in the paper. This is uploaded as a Jupyter Notebook since the code is relatively fast and many results are shown. 
 
-* The `RBFPINNs.py` file contains all code involving the RBF-PINNs method applied to the PDE models discussed in the paper (Schnakenberg, FitzHugh-Nagumo and Brusselator) and plots for the figures. 
-
-* The `RBFPINNs_ChemPat.py` file contains all code involving the RBF-PINNs method applied to the chemical patterns and plots for the figures.
+* The `RBFPINNs_ChemPat.py` file contains all code involving the RBF-PINNs method applied to the chemical patterns and plots for the figures. This network can also be applied to the numerical patterns.
 
 ## Utils
 
