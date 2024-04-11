@@ -971,7 +971,7 @@ v_tp_toy = np.copy(u_tp_toy)
 plots_gen = plot_generator(
     RBF_PINNs,
     300,
-    100,
+    50, #change to 100 if using experimental data
     1 / 2 * np.sqrt(1 / 50),
     0,
     u_tp_toy,
